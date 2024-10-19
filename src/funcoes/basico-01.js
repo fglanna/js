@@ -1,6 +1,6 @@
 function saudacao(){
-    console.log('Olá!');
-    console.log('Bem-vindo ao meu site!');
+    //console.log('Olá!');
+    //console.log('Bem-vindo ao meu site!');
 }
 
 saudacao();

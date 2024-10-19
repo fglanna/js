@@ -3,7 +3,7 @@ function maiorNumero(a, b) {
     // ou return (a > b)? a : b;
 }
 
-console.log(maiorNumero(59, 20)); // Output: 59
+console.log(maiorNumero(25, 20)); // Output: 25
 
 function parOuImpar(numero) {
     return numero % 2 === 0? 'Par' : 'Ímpar';
